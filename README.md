@@ -1,4 +1,6 @@
-# MapCrashDemo
+# MapCrashDemo 
+
+[Android Bug #159493](https://code.google.com/p/android/issues/detail?id=159493)
 
 For some reason SupportMapFragment crashes with NPE during init if used as a nested fragment within activity with StrictMode enabled:
 
